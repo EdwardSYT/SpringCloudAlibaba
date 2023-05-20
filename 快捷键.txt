@@ -1,0 +1,24 @@
+CTRL+ALT+L 快速排版
+SHIFT+CTRL+N 搜索
+SHIFT+CTRL+X 直接翻译
+SHIFT+CTRL+Y 详细翻译
+SHIFT+ENTER 任意位置回车
+SHIFT+CTRL+↑↓ 移动代码块
+CTRL+F12 查看当前类的方法看列表
+CTRL+P 显示重载的所有方法
+FN（笔记本切换键）+ALT+INS 快速自动插入get、set方法
+Ctrl+Alt+U 打开UML类图
+Ctrl+O 选择重写方法
+SHIFT+CTRL+Z 恢复Ctrl+Z撤销的内容，也就是Redo（重做）操作
+Alt+按住鼠标左键拖动 神级多光标
+Alt+ENTER 错误的地方快捷键处理、自动生成返回值
+Ctrl+I 打开需要实现方法列表
+Ctrl+P 构造器信息录入提示
+全部选择+CTRL+ALT+T 选择包这些代码的方式 if/while/for等
+SHIFT+F6 批量改指定的变量名、方法名、类名等
+CTRL+G 快速定位到哪一行代码
+CTRL+F 查找指定结构
+CTRL+R 查找与替换
+CTRL+SHIFT+F 全局搜索内容
+CTRL+H 查看继承关系
+CTRL+N 全局搜索方法
